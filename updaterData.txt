@@ -1,3 +1,23 @@
 version: 3.0 b3
 -----------------------
+main.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/main.lua
+Log.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/Log.lua
+Notification_lib.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/Notification_lib.lua
+TimerLibrary.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/TimerLibrary.lua
+button.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/button.lua
+col.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/col.lua
+input.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/input.lua
+input_settings.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/input_settings.lua
+invisible_button.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/invisible_button.lua
+keyboard_handler.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/keyboard_handler.lua
+menu.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/menu.lua
+norButton.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/norButton.lua
+openlinks_lib.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/openlinks_lib.lua
+pageButtonLeft.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/pageButtonLeft.lua
+pageButtonRight.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/pageButtonRight.lua
+setting.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/setting.lua
+settingbtn.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/settingbtn.lua
+startWalk.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/startWalk.lua
+updater.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/updater.lua
+xupdater.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/xupdater.lua
 mouse.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/mouse.lua
