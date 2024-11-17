@@ -1,3 +1,3 @@
 version: 3.0 b3
 -----------------------
-mouse.lua 
+mouse.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/mouse.lua
