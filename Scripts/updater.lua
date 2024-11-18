@@ -70,6 +70,7 @@ function git.UpdateLua(url, path)
                 log.AddLog("Updating: " .. fileName)
                 if string.match(line, "main.lua") then
                    path = getMyPluginPath():sub(1, -3) .. "data/modules/"
+                   path = path .. fileName
                    downloadResult , error = sasl.net.downloadFileSync (n_url, path)
                    if not downloadResult then
                     table.insert(failed, fileName)
