@@ -1,4 +1,4 @@
-version: 3.0 b3
+version: 3.0
 -----------------------
 main.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/main.lua
 Log.lua, https://raw.githubusercontent.com/DevolperRL/WalkAroundXplane/refs/heads/main/Scripts/Log.lua
